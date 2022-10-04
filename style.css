@@ -1,0 +1,12 @@
+body {
+    background: #8000FF;
+}
+
+#clock {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    margin-top: 20%;
+    font-weight: 700;
+    font-size: 60px;
+} 
